@@ -1,4 +1,4 @@
-# EX>NO:2b          IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+# EX:NO:2b          IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 
 ## AIM
 To implement to sliding window protocol.
